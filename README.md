@@ -92,6 +92,48 @@ The Immersive Language Learning System is compatible with mobile devices running
 # How to Use 
 
 -> 
+# How to Use the Immersive Language Learning System 
+
+Here is a step-by-step guide on how to use the Immersive Language Learning System for an efficient, enjoyable, and immersive language learning experience. 
+
+## Step 1: Setting up Visual Aids 
+
+Each set of scannable physical visual aids include stickers or note cards that can be attached to real-world objects in your environment. For instance, a sticker or card labeled with the target language word for "table" could be attached to your dining table. 
+
+## Step 2: Launching the Application 
+
+The software application built into the system can be installed and launched on your mobile device. This application is compatible with popular mobile operating systems.
+
+## Step 3: Scanning the Visual Aids 
+
+By using the camera of your mobile device, you can scan the visual aids. The application is designed to read the coded information on each visual aid and provide learning cues (such as the word's meaning, its synonyms, usage in phrases or sentences, or links to further informative resources).
+
+## Step 4: Exploring Application Modes 
+
+The application comes with two main game modes: 
+- **Prompt and Scan** provides an audible pronunciation of a word on a visual aid and requires you to scan the visual aid that matches the spoken word. This can greatly help reinforce word recognition and pronunciation.
+- **Geolocation** is a game in which the app stores the coordinates of objects attached with visual aids that you scan correctly; On subsequent plays, it prompts you to find the same objects again using geolocation cues.
+
+## Step 5: Utilizing Feedback & Pronunciation Features 
+
+The application offers audio feedback and pronunciation improvement features. It allows you to provide audio input by speaking words, which it then uses to evaluate and consequently improve your pronunciation of said words. 
+
+## Step 6: Customizing your Learning Experience 
+
+Within the application, you can choose to use various visual aids, themes, and game modes, depending on your personal preference and needs. 
+
+## Step 7: Tracking Progress 
+
+A built-in feature of the application is the ability to keep track of progress via game scores and statistics. 
+
+## Step 8: Updating and Accessing Additional Resources 
+
+From time to time, updates to the application will be released. These updates may offer additional features, learning materials or resources that can enhance your language learning experience. Be sure to regularly update the application to benefit from these enhancements. 
+
+## Compatibility 
+
+The Immersive Language Learning System is compatible with mobile devices running popular operating systems, such as iOS and Android. Keep this in mind when planning to use it.
+
 
 # Contributions 
 
