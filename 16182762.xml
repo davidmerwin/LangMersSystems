@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PatentApplicationData>
+    <FileHeader>
+        <FileCreationTimeStamp>2023-09-22</FileCreationTimeStamp>
+    </FileHeader>
+    <CorrespondenceInfo>
+        <CorrespondenceAddresses>
+            <CorrespondenceAddress>
+                <NameLine1>STANDLEY LAW GROUP LLP</NameLine1>
+                <NameLine2></NameLine2>
+                <AddressLine1>6300 Riverside Drive</AddressLine1>
+                <AddressLine2></AddressLine2>
+                <City>Dublin</City>
+                <GeographicRegion>
+                    <GeographicRegionCode>OH</GeographicRegionCode>
+                    <GeographicRegionName>OHIO</GeographicRegionName>
+                </GeographicRegion>
+                <PostalCode>43017</PostalCode>
+                <CountryCode>US</CountryCode>
+                <CountryName>UNITED STATES</CountryName>
+            </CorrespondenceAddress>
+        </CorrespondenceAddresses>
+        <CorrespondenceInfo>
+            <Attorneys>
+                <Attorney>
+                    <RegistrationNumber>33390</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>STEPHEN</FirstName>
+                        <LastName>GRANT</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>34021</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JEFFREY</FirstName>
+                        <LastName>STANDLEY</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>41133</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JAMES</FirstName>
+                        <LastName>KWAK</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>42039</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JEFFREY</FirstName>
+                        <LastName>NORRIS</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>53627</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>FRED</FirstName>
+                        <LastName>SPEED</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>62302</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>BEVERLY</FirstName>
+                        <LastName>MARSH</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>72962</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>ADAM</FirstName>
+                        <LastName>SMITH</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>77588</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>KENNY</FirstName>
+                        <LastName>PUNG</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>330-319-4805</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>78470</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>BRYAN</FirstName>
+                        <LastName>FINNERAN</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>ACTIVE</AgentStatus>
+                </Attorney>
+            </Attorneys>
+        </CorrespondenceInfo>
+    </CorrespondenceInfo>
+    <POAInfo>
+        <POAAddresses>
+            <POAAddress>
+                <NameLine1>STANDLEY LAW GROUP LLP</NameLine1>
+                <NameLine2></NameLine2>
+                <AddressLine1>6300 Riverside Drive</AddressLine1>
+                <AddressLine2></AddressLine2>
+                <City>Dublin</City>
+                <GeographicRegion>
+                    <GeographicRegionCode>OH</GeographicRegionCode>
+                    <GeographicRegionName>OHIO</GeographicRegionName>
+                </GeographicRegion>
+                <PostalCode>43017</PostalCode>
+                <CountryCode>US</CountryCode>
+                <CountryName>UNITED STATES</CountryName>
+            </POAAddress>
+        </POAAddresses>
+        <POAInfo>
+            <Attorneys>
+                <Attorney>
+                    <RegistrationNumber>77588</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>KENNY</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>PUNG</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>330-319-4805</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>77588</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>72962</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>ADAM</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>SMITH</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>72962</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>34021</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JEFFREY</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>STANDLEY</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>34021</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>41133</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JAMES</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>KWAK</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>41133</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>62302</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>BEVERLY</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>MARSH</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>62302</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>33390</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>STEPHEN</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>GRANT</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>33390</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>42039</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>JEFFREY</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>NORRIS</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>42039</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>53627</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>FRED</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>SPEED</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>53627</AgentStatus>
+                </Attorney>
+                <Attorney>
+                    <RegistrationNumber>78470</RegistrationNumber>
+                    <AttorneyName>
+                        <FirstName>BRYAN</FirstName>
+                        <MiddleName></MiddleName>
+                        <LastName>FINNERAN</LastName>
+                    </AttorneyName>
+                    <AttorneyContacts>
+                        <AttorneyContact>
+                            <TelecommunicationNumber>614-792-5555</TelecommunicationNumber>
+                            <ExtensionNumber></ExtensionNumber>
+                            <UsageTypeCategory>TEL</UsageTypeCategory>
+                        </AttorneyContact>
+                    </AttorneyContacts>
+                    <AgentStatus>78470</AgentStatus>
+                </Attorney>
+            </Attorneys>
+        </POAInfo>
+    </POAInfo>
+    <ApplicationBibliographicData>
+        <ApplicationNumber>16182762</ApplicationNumber>
+        <ApplicationStatusDate>2023-08-29</ApplicationStatusDate>
+        <ConfirmationNumber>5689</ConfirmationNumber>
+        <CustomerNumber>8698</CustomerNumber>
+        <FilingDate>2018-11-07</FilingDate>
+        <GroupArtUnit>3715</GroupArtUnit>
+        <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
+        <InventionTitle>IMMERSIVE LANGUAGE LEARNING SYSTEM AND METHOD</InventionTitle>
+        <PatentClass>434</PatentClass>
+        <PatentSubclass>157000</PatentSubclass>
+        <PatentNumber>11741845</PatentNumber>
+        <IssueDate>2023-08-29</IssueDate>
+        <Publications>
+            <Publication>
+                <PublicationSequenceNumber>0311640</PublicationSequenceNumber>
+                <PublicationKindCode>A1</PublicationKindCode>
+                <PublicationDate>2019-10-10</PublicationDate>
+            </Publication>
+        </Publications>
+        <IsPublic>true</IsPublic>
+    </ApplicationBibliographicData>
+    <Inventors>
+        <Inventor>
+            <InventorName>
+                <FirstName>David</FirstName>
+                <LastName>Merwin</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <NameLine1>Merwin, David</NameLine1>
+                    <City>Columbus</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <NameLine1>David  Merwin</NameLine1>
+                    <AddressLine1>2324 Middlesex Road</AddressLine1>
+                    <City>Columbus</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>43220</PostalCode>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+        <Inventor>
+            <InventorName>
+                <FirstName>Carrie</FirstName>
+                <LastName>Chen</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <NameLine1>Chen, Carrie</NameLine1>
+                    <City>Cincinnati</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <NameLine1>Carrie  Chen</NameLine1>
+                    <AddressLine1>1104 Fuhrman Road</AddressLine1>
+                    <City>Cincinnati</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>45215</PostalCode>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+        <Inventor>
+            <InventorName>
+                <FirstName>Susann</FirstName>
+                <LastName>Moeller</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <NameLine1>Susann  Moeller</NameLine1>
+                    <City>Columbus</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <NameLine1>Susann  Moeller</NameLine1>
+                    <AddressLine1>2767 Kensington Place West</AddressLine1>
+                    <City>Columbus</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>OH</GeographicRegionCode>
+                        <GeographicRegionName>OHIO</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>43202</PostalCode>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+        <Inventor>
+            <InventorName>
+                <FirstName>Xutao</FirstName>
+                <LastName>Shi</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <NameLine1>Shi, Xutao</NameLine1>
+                    <City>Eagan</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>MN</GeographicRegionCode>
+                        <GeographicRegionName>MINNESOTA</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <NameLine1>Xutao  Shi</NameLine1>
+                    <AddressLine1>780 Canter Glen Circle</AddressLine1>
+                    <City>Eagan</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>MN</GeographicRegionCode>
+                        <GeographicRegionName>MINNESOTA</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>55123</PostalCode>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+    </Inventors>
+    <Applicants/>
+    <Continuity>
+        <ParentContinuityList>
+            <ParentContinuity>
+                <ParentApplicationNumber>62653704</ParentApplicationNumber>
+                <ChildApplicationNumber>16182762</ChildApplicationNumber>
+                <ContinuityDescription>Provisional Application Expired</ContinuityDescription>
+                <FilingDate>2018-04-06</FilingDate>
+                <ApplicationStatusNumber>159</ApplicationStatusNumber>
+                <Status>PENDING</Status>
+            </ParentContinuity>
+        </ParentContinuityList>
+        <ChildContinuityList/>
+    </Continuity>
+    <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Recordation of Patent Grant Mailed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Mail Patent eGrant Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Patent eGrant Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Recordation of Patent eGrant</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-10</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-10</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-09</TransactionDate>
+            <TransactionDescription>Issue Notification Mailed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-08-29</TransactionDate>
+            <TransactionDescription>Patent Issue Date Used in PTA Calculation</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-07-18</TransactionDate>
+            <TransactionDescription>Dispatch to FDC</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-07-18</TransactionDate>
+            <TransactionDescription>Application Is Considered Ready for Issue</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-07-12</TransactionDate>
+            <TransactionDescription>Issue Fee Payment Verified</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-07-12</TransactionDate>
+            <TransactionDescription>Issue Fee Payment Received</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-06-13</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-06-13</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-06-13</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-06-13</TransactionDate>
+            <TransactionDescription>Mail Notice of Allowance</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-06-09</TransactionDate>
+            <TransactionDescription>Notice of Allowance Data Verification Completed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>PILOT- Request for After Final Consideration Program</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-10</TransactionDate>
+            <TransactionDescription>Date Forwarded to Examiner</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>Response after Final Action</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-05-01</TransactionDate>
+            <TransactionDescription>Mail Examiner Interview Summary (PTOL - 413)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-04-24</TransactionDate>
+            <TransactionDescription>Interview Summary - Applicant Initiated - Telephonic</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-04-25</TransactionDate>
+            <TransactionDescription>Interview Summary Record</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-03-03</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-03-01</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-03-01</TransactionDate>
+            <TransactionDescription>Mail Final Rejection (PTOL - 326)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2023-02-09</TransactionDate>
+            <TransactionDescription>Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-11-14</TransactionDate>
+            <TransactionDescription>Date Forwarded to Examiner</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-11-04</TransactionDate>
+            <TransactionDescription>Response after Non-Final Action</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-08-08</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-08-05</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-08-05</TransactionDate>
+            <TransactionDescription>Mail Non-Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-07-19</TransactionDate>
+            <TransactionDescription>Non-Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-14</TransactionDate>
+            <TransactionDescription>Date Forwarded to Examiner</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-11</TransactionDate>
+            <TransactionDescription>Request for Continued Examination (RCE)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-14</TransactionDate>
+            <TransactionDescription>Disposal for a RCE / CPA / R129</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-11</TransactionDate>
+            <TransactionDescription>Workflow - Request for RCE - Begin</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-05</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-04-05</TransactionDate>
+            <TransactionDescription>Mail Advisory Action (PTOL - 303)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-25</TransactionDate>
+            <TransactionDescription>After Final Consideration Program Additional Consideration and/or updated search</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-24</TransactionDate>
+            <TransactionDescription>Interview Summary - Examiner Initiated - Telephonic</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-25</TransactionDate>
+            <TransactionDescription>Advisory Action (PTOL-303)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-15</TransactionDate>
+            <TransactionDescription>Date Forwarded to Examiner</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-10</TransactionDate>
+            <TransactionDescription>Response after Final Action</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-03-10</TransactionDate>
+            <TransactionDescription>PILOT- Request for After Final Consideration Program</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-01-12</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-01-10</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-01-10</TransactionDate>
+            <TransactionDescription>Mail Final Rejection (PTOL - 326)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-01-05</TransactionDate>
+            <TransactionDescription>Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2022-01-01</TransactionDate>
+            <TransactionDescription>Information Disclosure Statement considered</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-10-12</TransactionDate>
+            <TransactionDescription>Electronic Information Disclosure Statement</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-10-12</TransactionDate>
+            <TransactionDescription>Information Disclosure Statement (IDS) Filed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-09-26</TransactionDate>
+            <TransactionDescription>Date Forwarded to Examiner</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-09-23</TransactionDate>
+            <TransactionDescription>Response after Non-Final Action</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-06-23</TransactionDate>
+            <TransactionDescription>Electronic Review</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-06-23</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-06-23</TransactionDate>
+            <TransactionDescription>Mail Non-Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-06-18</TransactionDate>
+            <TransactionDescription>Non-Final Rejection</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2021-03-28</TransactionDate>
+            <TransactionDescription>Case Docketed to Examiner in GAU</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2020-12-05</TransactionDate>
+            <TransactionDescription>Case Docketed to Examiner in GAU</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2020-09-25</TransactionDate>
+            <TransactionDescription>Case Docketed to Examiner in GAU</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2019-10-13</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2019-10-10</TransactionDate>
+            <TransactionDescription>Application ready for PDX access by participating foreign offices</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2019-10-10</TransactionDate>
+            <TransactionDescription>PG-Pub Issue Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2019-03-18</TransactionDate>
+            <TransactionDescription>Case Docketed to Examiner in GAU</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-12-14</TransactionDate>
+            <TransactionDescription>Application Dispatched from OIPE</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-12-01</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-29</TransactionDate>
+            <TransactionDescription>Sent to Classification Contractor</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-29</TransactionDate>
+            <TransactionDescription>FITF set to YES - revise initial setting</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-07</TransactionDate>
+            <TransactionDescription>Patent Term Adjustment - Ready for Examination</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-30</TransactionDate>
+            <TransactionDescription>Application Is Now Complete</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-30</TransactionDate>
+            <TransactionDescription>Filing Receipt</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-07</TransactionDate>
+            <TransactionDescription>PTO/SB/69-Authorize EPO Access to Search Results</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-07</TransactionDate>
+            <TransactionDescription>Applicants have given acceptable permission for participating foreign</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-07</TransactionDate>
+            <TransactionDescription>Entity Status Set To Undiscounted (Initial Default Setting or Status Change)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2018-11-07</TransactionDate>
+            <TransactionDescription>Initial Exam Team nn</TransactionDescription>
+        </FileContentHistory>
+    </FileContentHistories>
+    <ImageFileWrapperList>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Power of Attorney</DocumentDescription>
+            <FileWrapperDocumentCode>PA..</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Drawings-other than black and white line drawings</DocumentDescription>
+            <FileWrapperDocumentCode>DRW.NONBW</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Abstract</DocumentDescription>
+            <FileWrapperDocumentCode>ABST</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Oath or Declaration filed</DocumentDescription>
+            <FileWrapperDocumentCode>OATH</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Application Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>ADS</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Compact Disk Review Checklist</DocumentDescription>
+            <FileWrapperDocumentCode>CDCHECK</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Compact Disk Review Checklist</DocumentDescription>
+            <FileWrapperDocumentCode>CDCHECK</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)</DocumentDescription>
+            <FileWrapperDocumentCode>SCORE</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-07</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-30</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Filing Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>APP.FILE.REC</FileWrapperDocumentCode>
+            <MailRoomDate>2018-11-30</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Request for Corrected Filing Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>CFILE</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Drawings-other than black and white line drawings</DocumentDescription>
+            <FileWrapperDocumentCode>DRW.NONBW</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Compact Disk Review Checklist</DocumentDescription>
+            <FileWrapperDocumentCode>CDCHECK</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Compact Disk Review Checklist</DocumentDescription>
+            <FileWrapperDocumentCode>CDCHECK</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)</DocumentDescription>
+            <FileWrapperDocumentCode>SCORE</FileWrapperDocumentCode>
+            <MailRoomDate>2018-12-17</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Notice of Publication</DocumentDescription>
+            <FileWrapperDocumentCode>NTC.PUB</FileWrapperDocumentCode>
+            <MailRoomDate>2019-10-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2019-10-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Non-Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>CTNF</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Index of Claims</DocumentDescription>
+            <FileWrapperDocumentCode>FWCLM</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2021-06-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Amendment/Request for Reconsideration-After Non-Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>A...</FileWrapperDocumentCode>
+            <MailRoomDate>2021-09-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2021-09-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Arguments/Remarks Made in an Amendment</DocumentDescription>
+            <FileWrapperDocumentCode>REM</FileWrapperDocumentCode>
+            <MailRoomDate>2021-09-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2021-09-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2021-09-23</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Information Disclosure Statement (IDS) Form (SB08)</DocumentDescription>
+            <FileWrapperDocumentCode>IDS</FileWrapperDocumentCode>
+            <MailRoomDate>2021-10-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2021-10-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2021-10-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2021-10-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>CTFR</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Index of Claims</DocumentDescription>
+            <FileWrapperDocumentCode>FWCLM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of References cited by applicant and considered by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>1449</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Bibliographic Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>BIB</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2022-01-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>After Final Consideration Program Request</DocumentDescription>
+            <FileWrapperDocumentCode>A.NE.AFCP</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Response After Final Action</DocumentDescription>
+            <FileWrapperDocumentCode>A.NE</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Arguments/Remarks Made in an Amendment</DocumentDescription>
+            <FileWrapperDocumentCode>REM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2022-03-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Advisory Action (PTOL-303)</DocumentDescription>
+            <FileWrapperDocumentCode>CTAV</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Examiner Interview Summary Record (PTOL - 413)</DocumentDescription>
+            <FileWrapperDocumentCode>EXIN</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>After Final Consideration Program Decision</DocumentDescription>
+            <FileWrapperDocumentCode>A.NE.AFCP.D</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Bibliographic Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>BIB</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Amendment After Final or under 37CFR 1.312, initialed by the examiner.</DocumentDescription>
+            <FileWrapperDocumentCode>ANE.I</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Request for Continued Examination (RCE)</DocumentDescription>
+            <FileWrapperDocumentCode>RCEX</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)</DocumentDescription>
+            <FileWrapperDocumentCode>AMSB</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Arguments/Remarks Made in an Amendment</DocumentDescription>
+            <FileWrapperDocumentCode>REM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2022-04-11</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Non-Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>CTNF</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Index of Claims</DocumentDescription>
+            <FileWrapperDocumentCode>FWCLM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2022-08-05</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Amendment/Request for Reconsideration-After Non-Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>A...</FileWrapperDocumentCode>
+            <MailRoomDate>2022-11-04</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-11-04</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Arguments/Remarks Made in an Amendment</DocumentDescription>
+            <FileWrapperDocumentCode>REM</FileWrapperDocumentCode>
+            <MailRoomDate>2022-11-04</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2022-11-04</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2022-11-04</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Final Rejection</DocumentDescription>
+            <FileWrapperDocumentCode>CTFR</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Index of Claims</DocumentDescription>
+            <FileWrapperDocumentCode>FWCLM</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2023-03-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Examiner Interview Summary Record (PTOL - 413)</DocumentDescription>
+            <FileWrapperDocumentCode>EXIN</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Office Action Appendix</DocumentDescription>
+            <FileWrapperDocumentCode>OA.APPENDIX</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Response After Final Action</DocumentDescription>
+            <FileWrapperDocumentCode>A.NE</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Arguments/Remarks Made in an Amendment</DocumentDescription>
+            <FileWrapperDocumentCode>REM</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>After Final Consideration Program Request</DocumentDescription>
+            <FileWrapperDocumentCode>A.NE.AFCP</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2023-05-01</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Notice of Allowance and Fees Due (PTOL-85)</DocumentDescription>
+            <FileWrapperDocumentCode>NOA</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>List of references cited by examiner</DocumentDescription>
+            <FileWrapperDocumentCode>892</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Index of Claims</DocumentDescription>
+            <FileWrapperDocumentCode>FWCLM</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Issue Information including classification, examiner, name, claim, renumbering, etc.</DocumentDescription>
+            <FileWrapperDocumentCode>IIFW</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Search information including classification, databases and other search related notes</DocumentDescription>
+            <FileWrapperDocumentCode>SRFW</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Examiner's search strategy and results</DocumentDescription>
+            <FileWrapperDocumentCode>SRNT</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Bibliographic Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>BIB</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2023-06-13</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Issue Fee Payment (PTO-85B)</DocumentDescription>
+            <FileWrapperDocumentCode>IFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2023-07-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2023-07-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System(EFS) Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2023-07-12</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Issue Notification</DocumentDescription>
+            <FileWrapperDocumentCode>ISSUE.NTF</FileWrapperDocumentCode>
+            <MailRoomDate>2023-08-09</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2023-08-10</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>eGrant day-of Notification</DocumentDescription>
+            <FileWrapperDocumentCode>EGRANT.NTF</FileWrapperDocumentCode>
+            <MailRoomDate>2023-08-29</MailRoomDate>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2023-08-29</MailRoomDate>
+        </ImageFileWrapperDocument>
+    </ImageFileWrapperList>
+    <ForeignPriorities/>
+    <SupplementalContents>
+        <SupplementalContent>
+            <SupplementalContentCategory>Appendix</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertificateOfCorrection</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertifiedColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ChemicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ComputerProgramListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>DesignDrawings</SupplementalContentCategory>
+            <SupplementalContentQuantity>1</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>InterimCopy</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>MathematicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ProteinCrystals</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SearchResults</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SequenceListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>Tables</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>USPatentColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+    </SupplementalContents>
+    <InternationalRegistrationNumbers/>
+    <PtaPte>
+        <patentTermSummary>
+            <PtaPostIssuePetition>0</PtaPostIssuePetition>
+            <PtaPreIssuePetition>0</PtaPreIssuePetition>
+            <EffectiveFilingDate>2018-11-07</EffectiveFilingDate>
+            <IssueDate>2023-08-29</IssueDate>
+            <TotalATime>533</TotalATime>
+            <TotalBTime>231</TotalBTime>
+            <TotalCTime>0</TotalCTime>
+            <OverlappingDays>0</OverlappingDays>
+            <PTODelayDays>764</PTODelayDays>
+            <PTODelayAdjustments>0</PTODelayAdjustments>
+            <ApplicantDelayDays>19</ApplicantDelayDays>
+            <TotalPTADays>745</TotalPTADays>
+            <PTEAdjustments>0</PTEAdjustments>
+            <TotalPTEDays>0</TotalPTEDays>
+        </patentTermSummary>
+        <TermHistories>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <termHistory xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </TermHistories>
+        <NewTermHistories>
+            <newTermHistory>
+                <ActionDescription>PTA 36 Months</ActionDescription>
+                <ActionCode>PTA36M</ActionCode>
+                <ResponsibleType>PTO</ResponsibleType>
+                <CalculationType>REG</CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-08-29</ActionDate>
+                <StartSeqNo>0.5</StartSeqNo>
+                <ActionSeqNo>89.5</ActionSeqNo>
+                <PTODays>231</PTODays>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Patent Issue Date Used in PTA Calculation</ActionDescription>
+                <ActionCode>PTAC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-08-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>89.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Export to Final Data Capture</ActionDescription>
+                <ActionCode>EFDC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-07-19</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>88.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Dispatch to FDC</ActionDescription>
+                <ActionCode>D1935</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-07-18</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>87.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Application Is Considered Ready for Issue</ActionDescription>
+                <ActionCode>PILS</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-07-18</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>86.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Issue Fee Payment Verified</ActionDescription>
+                <ActionCode>N084</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-07-12</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>85.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Issue Fee Payment Received</ActionDescription>
+                <ActionCode>IFEE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-07-12</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>84.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Finished Initial Data Capture</ActionDescription>
+                <ActionCode>FIDC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>83.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>82.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>81.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Export to Initial Data Capture</ActionDescription>
+                <ActionCode>EIDC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>80.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>79.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Notice of Allowance</ActionDescription>
+                <ActionCode>MN/=.</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>78.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Office Action Review</ActionDescription>
+                <ActionCode>OAR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>77.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Office Action Review</ActionDescription>
+                <ActionCode>OAR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>76.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Issue Revision Completed</ActionDescription>
+                <ActionCode>IREV</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>75.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Document Verification</ActionDescription>
+                <ActionCode>DVER</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>74.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Notice of Allowance Data Verification Completed</ActionDescription>
+                <ActionCode>N/=.</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-06-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>73.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Reasons for Allowance</ActionDescription>
+                <ActionCode>EX.R</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-20</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>72.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Allowability Notice</ActionDescription>
+                <ActionCode>CNTA</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-20</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>71.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>PILOT- Request for After Final Consideration Program</ActionDescription>
+                <ActionCode>RAFC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>70.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Date Forwarded to Examiner</ActionDescription>
+                <ActionCode>FWDX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>69.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Response after Final Action</ActionDescription>
+                <ActionCode>A.NE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>68.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>67.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>66.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>65.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Examiner Interview Summary (PTOL - 413)</ActionDescription>
+                <ActionCode>MEXIN</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-05-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>64.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Interview Summary - Applicant Initiated - Telephonic</ActionDescription>
+                <ActionCode>EXAT</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-04-24</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>63.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Interview Summary Record</ActionDescription>
+                <ActionCode>EXIN</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-04-25</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>62.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-03-03</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>61.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-03-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>60.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Final Rejection (PTOL - 326)</ActionDescription>
+                <ActionCode>MCTFR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-03-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>59.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Final Rejection</ActionDescription>
+                <ActionCode>CTFR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2023-02-09</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>58.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Date Forwarded to Examiner</ActionDescription>
+                <ActionCode>FWDX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-11-14</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>57.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Response after Non-Final Action</ActionDescription>
+                <ActionCode>A...</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-11-04</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>56.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-08-08</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>55.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-08-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>54.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Non-Final Rejection</ActionDescription>
+                <ActionCode>MCTNF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-08-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>53.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Non-Final Rejection</ActionDescription>
+                <ActionCode>CTNF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-07-19</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>52.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Date Forwarded to Examiner</ActionDescription>
+                <ActionCode>FWDX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-14</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>51.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Amendment Submitted/Entered with Filing of CPA/RCE</ActionDescription>
+                <ActionCode>AMSB</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-11</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>50.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Request for Continued Examination (RCE)</ActionDescription>
+                <ActionCode>RCEX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-11</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>49.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Disposal for a RCE / CPA / R129</ActionDescription>
+                <ActionCode>ABN9</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-14</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>48.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Workflow - Request for RCE - Begin</ActionDescription>
+                <ActionCode>BRCE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-11</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>47.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>46.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Advisory Action (PTOL - 303)</ActionDescription>
+                <ActionCode>MCTAV</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-04-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>45.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Office Action Review</ActionDescription>
+                <ActionCode>OAR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>44.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Office Action Review</ActionDescription>
+                <ActionCode>OAR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>43.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Office Action Review</ActionDescription>
+                <ActionCode>OAR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>42.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>After Final Consideration Program Additional Consideration and/or updated search</ActionDescription>
+                <ActionCode>AFAC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-25</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>41.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Interview Summary - Examiner Initiated - Telephonic</ActionDescription>
+                <ActionCode>EXET</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-24</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>40.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Advisory Action (PTOL-303)</ActionDescription>
+                <ActionCode>CTAV</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-25</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>39.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Date Forwarded to Examiner</ActionDescription>
+                <ActionCode>FWDX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-15</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>38.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Response after Final Action</ActionDescription>
+                <ActionCode>A.NE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>37.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>PILOT- Request for After Final Consideration Program</ActionDescription>
+                <ActionCode>RAFC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-03-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>36.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-01-12</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>35.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-01-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>34.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Final Rejection (PTOL - 326)</ActionDescription>
+                <ActionCode>MCTFR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-01-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>33.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Final Rejection</ActionDescription>
+                <ActionCode>CTFR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-01-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>32.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Information Disclosure Statement considered</ActionDescription>
+                <ActionCode>IDSC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2022-01-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>31.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Information Disclosure Statement</ActionDescription>
+                <ActionCode>EIDS.</ActionCode>
+                <ResponsibleType>APPL</ResponsibleType>
+                <CalculationType>APL</CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-10-12</ActionDate>
+                <StartSeqNo>27.0</StartSeqNo>
+                <ActionSeqNo>30.0</ActionSeqNo>
+                <ApplicantDays>19</ApplicantDays>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Information Disclosure Statement (IDS) Filed</ActionDescription>
+                <ActionCode>WIDS</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-10-12</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>29.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Date Forwarded to Examiner</ActionDescription>
+                <ActionCode>FWDX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-09-26</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>28.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Response after Non-Final Action</ActionDescription>
+                <ActionCode>A...</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-09-23</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>27.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Electronic Review</ActionDescription>
+                <ActionCode>ELC_RVW</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-06-23</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>26.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-06-23</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>25.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Mail Non-Final Rejection</ActionDescription>
+                <ActionCode>MCTNF</ActionCode>
+                <ResponsibleType>PTO</ResponsibleType>
+                <CalculationType>14R</CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-06-23</ActionDate>
+                <StartSeqNo>0.5</StartSeqNo>
+                <ActionSeqNo>24.0</ActionSeqNo>
+                <PTODays>533</PTODays>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Non-Final Rejection</ActionDescription>
+                <ActionCode>CTNF</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-06-18</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>23.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Case Docketed to Examiner in GAU</ActionDescription>
+                <ActionCode>DOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2021-03-28</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>22.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Request to Re-evaluate Docketing</ActionDescription>
+                <ActionCode>REDOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2020-12-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>21.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Case Docketed to Examiner in GAU</ActionDescription>
+                <ActionCode>DOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2020-12-05</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>20.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Request to Re-evaluate Docketing</ActionDescription>
+                <ActionCode>REDOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2020-09-26</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>19.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Case Docketed to Examiner in GAU</ActionDescription>
+                <ActionCode>DOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2020-09-25</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>18.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2019-10-13</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>17.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Application ready for PDX access by participating foreign offices</ActionDescription>
+                <ActionCode>CCRDY</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2019-10-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>16.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>PG-Pub Issue Notification</ActionDescription>
+                <ActionCode>PG-ISSUE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2019-10-10</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>15.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Case Docketed to Examiner in GAU</ActionDescription>
+                <ActionCode>DOCK</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2019-03-18</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>14.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Application Dispatched from OIPE</ActionDescription>
+                <ActionCode>OIPE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-12-14</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>13.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Email Notification</ActionDescription>
+                <ActionCode>EML_NTR</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-12-01</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>12.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Sent to Classification Contractor</ActionDescription>
+                <ActionCode>PGPC</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>11.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>FITF set to YES - revise initial setting</ActionDescription>
+                <ActionCode>FTFS</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-29</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>10.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Patent Term Adjustment - Ready for Examination</ActionDescription>
+                <ActionCode>PTA.RFE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>9.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Application Is Now Complete</ActionDescription>
+                <ActionCode>COMP</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-30</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>8.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Filing Receipt</ActionDescription>
+                <ActionCode>FLRCPT.O</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-30</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>7.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>PTO/SB/69-Authorize EPO Access to Search Results</ActionDescription>
+                <ActionCode>SREXR141</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>6.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Applicants have given acceptable permission for participating foreign</ActionDescription>
+                <ActionCode>APPERMS</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>5.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Cleared by OIPE CSR</ActionDescription>
+                <ActionCode>L194</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-14</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>4.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>IFW Scan &amp; PACR Auto Security Review</ActionDescription>
+                <ActionCode>SCAN</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>3.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Entity Status Set To Undiscounted (Initial Default Setting or Status Change)</ActionDescription>
+                <ActionCode>BIG.</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>2.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Initial Exam Team nn</ActionDescription>
+                <ActionCode>IEXX</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>1.0</ActionSeqNo>
+            </newTermHistory>
+            <newTermHistory>
+                <ActionDescription>Filing date</ActionDescription>
+                <ActionCode>EFILE</ActionCode>
+                <ResponsibleType></ResponsibleType>
+                <CalculationType></CalculationType>
+                <PtaPteInd>PTA</PtaPteInd>
+                <ActionDate>2018-11-07</ActionDate>
+                <StartSeqNo>0.0</StartSeqNo>
+                <ActionSeqNo>0.5</ActionSeqNo>
+            </newTermHistory>
+        </NewTermHistories>
+    </PtaPte>
+</PatentApplicationData>
