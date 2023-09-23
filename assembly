@@ -1,0 +1,28 @@
+section .data
+    recognized_word db 'table', 0
+
+section .text
+    global _start
+
+_start:
+    ; syscall for write (sys_write)
+    mov eax, 4
+
+    ; file descriptor (stdout)
+    mov ebx, 1
+
+    ; pointer to message to write
+    mov ecx, recognized_word
+
+    ; length of message to write
+    mov edx, 5
+
+    ; call kernel
+    int 0x80
+
+    ; syscall for exit (sys_exit)
+    mov eax, 1
+    xor ebx, ebx
+
+    ; call kernel
+    int 0x80
