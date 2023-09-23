@@ -2,11 +2,13 @@
 https://patentcenter.uspto.gov/applications/16182762
 ![LangMers-logo](img/source/path-to-logo.png)
 
-![Diagram](https://cdn.mathpix.com/snip/images/_Youk3bHUn1I2egFyfGkhuKAYcZyL4lM9P5BqJ7HhrU.original.fullsize.png)
+
  
 LangMers is an innovative language learning system designed to immerse learners in a language through engaging, interactive learning methods. It is a revolutionary tool in the realm of language education, contributing to the advancement of more effective, more personalized language learning experiences.
 
 ## Patent Information
+
+![Diagram](https://cdn.mathpix.com/snip/images/_Youk3bHUn1I2egFyfGkhuKAYcZyL4lM9P5BqJ7HhrU.original.fullsize.png)
 
 **Patent Identification Number:** 16/182,762 | LAN3228-002B  
 
