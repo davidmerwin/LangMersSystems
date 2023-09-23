@@ -1,6 +1,6 @@
 # LangMers: Immersive Language Learning System and Method
 https://patentcenter.uspto.gov/applications/16182762
-![LangMers-logo](img/source/path-to-logo.png)
+![diagram](https://cdn.mathpix.com/snip/images/grhpc4CXDf4Wo-ImmRWTXTNarDHc7GNUSKtYa5ESGqk.original.fullsize.png)
 
 
  
