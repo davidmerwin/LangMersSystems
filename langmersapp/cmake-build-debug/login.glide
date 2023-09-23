@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+    <requires lib="gtk+" version="3.20"/>
+    <object class="GtkWindow" id="window_main">
+        <property name="can_focus">False</property>
+        <property name="title" translatable="yes">Login</property>
+        <property name="default_width">200</property>
+        <property name="default_height">200</property>
+        <property name="modal">True</property>
+        <child>
+            <object class="GtkBox" id="vbox">
+                <property name="orientation">vertical</property>
+                <child>
+                    <object class="GtkEntry" id="username_field"/>
+                </child>
+                <child>
+                    <object class="GtkEntry" id="password_field">
+                        <property name="visibility">False</property>
+                    </object>
+                </child>
+                <child>
+                    <object class="GtkButton" id="login_button">
+                        <property name="label">Log in</property>
+                        <signal name="clicked" handler="on_btn_login_clicked" swapped="no"/>
+                    </object>
+                </child>
+                <child>
+                    <object class="GtkLabel" id="error_message"/>
+                </child>
+            </object>
+        </child>
+    </object>
+</interface>

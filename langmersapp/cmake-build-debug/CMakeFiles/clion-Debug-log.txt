@@ -1,0 +1,7 @@
+/Users/david/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/david/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/david/Desktop/langmersapp -B /Users/david/Desktop/langmersapp/cmake-build-debug
+-- Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'gtk+-3.0'
+--   Found gtk+-3.0, version 3.24.38
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/david/Desktop/langmersapp/cmake-build-debug

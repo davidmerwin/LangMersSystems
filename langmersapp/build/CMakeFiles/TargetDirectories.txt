@@ -1,0 +1,3 @@
+/Users/david/Desktop/langmersapp/build/CMakeFiles/langmersapp.dir
+/Users/david/Desktop/langmersapp/build/CMakeFiles/edit_cache.dir
+/Users/david/Desktop/langmersapp/build/CMakeFiles/rebuild_cache.dir
