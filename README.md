@@ -2,8 +2,6 @@
 https://patentcenter.uspto.gov/applications/16182762
 ![diagram](https://cdn.mathpix.com/snip/images/grhpc4CXDf4Wo-ImmRWTXTNarDHc7GNUSKtYa5ESGqk.original.fullsize.png)
 
-
- 
 LangMers is an innovative language learning system designed to immerse learners in a language through engaging, interactive learning methods. It is a revolutionary tool in the realm of language education, contributing to the advancement of more effective, more personalized language learning experiences.
 
 ## Patent Information
@@ -42,12 +40,13 @@ United States
 - Susann Moeller, Columbus, OHIO (US)
 - Xutao Shi, Eagan, MINNESOTA (US)
 
-# Features 
+![Image 1](https://cdn.mathpix.com/snip/images/yQbKVx14-sd1-AgYSYYf3wSClfeWtkRQY9UHi5bFBec.original.fullsize.png)
 
--> 
 # Immersive Language Learning System
 
 The Immersive Language Learning System is a language learning method designed to provide an immersive language learning experience for users. The system uses scannable physical visual aids, such as stickers or note cards, which display different words in the language to be learned. These visual aids are attached to real-world objects in the user's environment.
+
+![Image 8](https://cdn.mathpix.com/snip/images/jwyYoTp0FIOhFCJdo8W8iu20_e262HMSouJxgF-jOzM.original.fullsize.png)
 
 ## Features
 
@@ -63,6 +62,8 @@ The Immersive Language Learning System is a language learning method designed to
 
 - Additional Application Functions: The software application includes various additional functions, such as providing information on word usage in phrases or sentences, presenting visual representations of words, directing the user to websites or webpages for additional information, and offering a choice between immersion mode and game mode.
 
+![Image 2](https://cdn.mathpix.com/snip/images/MnrytIiFIbJzs-y0s6SmJjAnzQk6DejTcRrsSlW055Y.original.fullsize.png)
+
 ## Technical Specifications
 
 - Hardware: The system requires a mobile device equipped with an imaging device, such as a smartphone with a camera.
@@ -70,6 +71,9 @@ The Immersive Language Learning System is a language learning method designed to
 - Software: The system includes a software application that runs on the mobile device. The application is compatible with popular mobile operating systems.
 
 - Visual Aids: The system includes a set of scannable physical visual aids, such as stickers or note cards. These visual aids display words in the target language and are attached to real-world objects.
+
+
+![Image 3](https://cdn.mathpix.com/snip/images/hP8t-xBko22JXw_NsoHQyCsCY82CkNq9gvumqqSxEjg.original.fullsize.png)
 
 ## Usage Instructions
 
@@ -89,16 +93,21 @@ The Immersive Language Learning System is a language learning method designed to
 
 8. Update the application and access additional features, materials, or resources as they become available.
 
+
+![Image 4](https://cdn.mathpix.com/snip/images/fU1oG-u4uA9_OKolQOAHrQcG7bMA8sny0ucA8jt7Y-w.original.fullsize.png)
+
 ## Compatibility
 
 The Immersive Language Learning System is compatible with mobile devices running popular operating systems, such as iOS and Android.
 
-# How to Use 
+![Image 5](https://cdn.mathpix.com/snip/images/rmnl6N1RiqgRpUYd_m6X1ZHP26Z1dpbI9wIxWI963m4.original.fullsize.png)
 
--> 
-# How to Use the Immersive Language Learning System 
+
+# How to Use -> the Immersive Language Learning System 
 
 Here is a step-by-step guide on how to use the Immersive Language Learning System for an efficient, enjoyable, and immersive language learning experience. 
+
+![Image 6](https://cdn.mathpix.com/snip/images/Q--9FvrdJ2k4I72X6QKQ56cyLCnw-EZ0XrTwHSws6fo.original.fullsize.png)
 
 ## Step 1: Setting up Visual Aids 
 
@@ -134,16 +143,9 @@ A built-in feature of the application is the ability to keep track of progress v
 
 From time to time, updates to the application will be released. These updates may offer additional features, learning materials or resources that can enhance your language learning experience. Be sure to regularly update the application to benefit from these enhancements. 
 
-## Compatibility 
+![Image 7](https://cdn.mathpix.com/snip/images/HPiH9045y31KBLbXkhN49vVxMlyqDQOMmp_sCNseOeU.original.fullsize.png)
 
-The Immersive Language Learning System is compatible with mobile devices running popular operating systems, such as iOS and Android. Keep this in mind when planning to use it.
-
-
-# Contributions 
-
--> 
-
-# LangMersSystems
+# Contributions -> LangMersSystems
 16/182,762 | LAN3228-002B:
 IMMERSIVE LANGUAGE LEARNING SYSTEM AND METHOD
 PUBLIC VIEW
