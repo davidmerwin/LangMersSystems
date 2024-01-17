@@ -1,0 +1,6 @@
+[submodule "davidmerwin@github.com"]
+	path = davidmerwin@github.com
+	url = https://davidmerwin@github.com/
+[submodule "LangMersSystems"]
+	path = LangMersSystems
+	url = git@github.com:davidmerwin/LangMersSystems.git
