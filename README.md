@@ -31,7 +31,7 @@ United States
 ## Publication
 - US 2019-0311640 A1 [Download PDF](https://www.link-to-download-pdf.com)
 - **Publication Date:** 10/10/2019 
-- **Assignee for Publication:** LangMers
+- **Assignee for Publication:** None recorded — application filed by the inventors as individuals
 - **Confirmation Number:** 5689  
 
 ## Inventors
@@ -144,6 +144,23 @@ A built-in feature of the application is the ability to keep track of progress v
 From time to time, updates to the application will be released. These updates may offer additional features, learning materials or resources that can enhance your language learning experience. Be sure to regularly update the application to benefit from these enhancements. 
 
 ![Image 7](https://cdn.mathpix.com/snip/images/HPiH9045y31KBLbXkhN49vVxMlyqDQOMmp_sCNseOeU.original.fullsize.png)
+
+# Sources in context
+
+The sources behind LangMers, each tied to the feature it relates to. They give design rationale and related evidence. None of them is a study of LangMers itself, so no learning-outcome claim for LangMers is made from them.
+
+1. **The patent.** Merwin, David; Chen, Carrie; Moeller, Susann; Shi, Xutao (inventors). *Immersive language learning system and method.* US Patent 11,741,845 B2, granted Aug 29, 2023. Application 16/182,762, filed Nov 7, 2018 (claiming US provisional 62/653,704, filed Apr 6, 2018); published as US 2019/0311640 A1 on Oct 10, 2019. No assignee recorded. [patents.google.com/patent/US11741845B2](https://patents.google.com/patent/US11741845B2/en)  
+   *In context:* the primary record for every feature on this page: the scannable visual aids, the mobile app, Prompt and Scan, Geolocation and pronunciation feedback.
+2. **Dual coding.** Paivio, Allan. "Dual coding theory: Retrospect and current status." *Canadian Journal of Psychology* 45(3): 255–287, 1991. DOI: [10.1037/h0084295](https://doi.org/10.1037/h0084295)  
+   *In context:* the rationale for Step 1, putting each word on the real object it names, so the learner meets the word (verbal code) and the object (imagery code) together.
+3. **Multimedia learning.** Mayer, Richard E.; Moreno, Roxana. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38(1): 43–52, 2003. DOI: [10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6)  
+   *In context:* Prompt and Scan pairs a spoken pronunciation (audio channel) with a printed word on an object (visual channel). The paper's dual-channel and limited-capacity principles are a guide for keeping the learning cues shown after each scan (Step 3) short and focused.
+4. **Labels on real objects.** Ibrahim, Adam; Huynh, Brandon; Downey, Jonathan; Höllerer, Tobias; Chun, Dorothy; O'Donovan, John. "ARbis Pictus: A Study of Vocabulary Learning with Augmented Reality." *IEEE Transactions on Visualization and Computer Graphics* 24(11): 2867–2874, 2018. DOI: [10.1109/TVCG.2018.2868568](https://doi.org/10.1109/TVCG.2018.2868568)  
+   *In context:* the closest published test of the core LangMers idea, target-language labels on real-world objects. In a 52-person lab study, learners using virtual AR labels recalled more nouns than with flashcards, on the same day and 4 days later. LangMers uses physical scannable labels rather than a headset, so this is related evidence, not a test of LangMers.
+5. **Learning in place.** Edge, Darren; Searle, Elly; Chiu, Kevin; Zhao, Jing; Landay, James A. "MicroMandarin: mobile language learning in context." *Proceedings of CHI 2011*, pp. 3169–3178. DOI: [10.1145/1978942.1979413](https://doi.org/10.1145/1978942.1979413)  
+   *In context:* related work for the Geolocation game, which ties words to places. In a 4-week, 23-user study, location-based content led to shorter study sessions held in twice as many places as frequency-based content.
+
+A fuller annotated bibliography (entries B29, B30 and B33–B35) is kept in the private [merwin-flagship-projects](https://github.com/davidmerwin/merwin-flagship-projects/blob/main/bibliography/ANNOTATED_BIBLIOGRAPHY.md) repository, which requires access.
 
 # Contributions -> LangMersSystems
 [US Patent 11,741,845 B2 (granted Aug 29, 2023; application 16/182,762)](https://patents.google.com/patent/US11741845B2) | LAN3228-002B:
