@@ -1,5 +1,5 @@
 # LangMers: Immersive Language Learning System and Method
-https://patentcenter.uspto.gov/applications/16182762
+[US Patent 11,741,845 B2 (granted Aug 29, 2023; application 16/182,762)](https://patents.google.com/patent/US11741845B2)
 ![diagram](https://cdn.mathpix.com/snip/images/grhpc4CXDf4Wo-ImmRWTXTNarDHc7GNUSKtYa5ESGqk.original.fullsize.png)
 
 LangMers is an innovative language learning system designed to immerse learners in a language through engaging, interactive learning methods. It is a revolutionary tool in the realm of language education, contributing to the advancement of more effective, more personalized language learning experiences.
@@ -8,7 +8,7 @@ LangMers is an innovative language learning system designed to immerse learners 
 
 ![Diagram](https://cdn.mathpix.com/snip/images/_Youk3bHUn1I2egFyfGkhuKAYcZyL4lM9P5BqJ7HhrU.original.fullsize.png)
 
-**Patent Identification Number:** 16/182,762 | LAN3228-002B  
+**Patent Identification Number:** [US Patent 11,741,845 B2 (granted Aug 29, 2023; application 16/182,762)](https://patents.google.com/patent/US11741845B2) | LAN3228-002B  
 
 ## Application Data
 
@@ -146,7 +146,7 @@ From time to time, updates to the application will be released. These updates ma
 ![Image 7](https://cdn.mathpix.com/snip/images/HPiH9045y31KBLbXkhN49vVxMlyqDQOMmp_sCNseOeU.original.fullsize.png)
 
 # Contributions -> LangMersSystems
-16/182,762 | LAN3228-002B:
+[US Patent 11,741,845 B2 (granted Aug 29, 2023; application 16/182,762)](https://patents.google.com/patent/US11741845B2) | LAN3228-002B:
 IMMERSIVE LANGUAGE LEARNING SYSTEM AND METHOD
 PUBLIC VIEW
 
