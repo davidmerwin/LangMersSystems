@@ -147,20 +147,186 @@ From time to time, updates to the application will be released. These updates ma
 
 # Sources in context
 
-The sources behind LangMers, each tied to the feature it relates to. They give design rationale and related evidence. None of them is a study of LangMers itself, so no learning-outcome claim for LangMers is made from them.
+The sources behind LangMers, written as a compact annotated bibliography and tied to the features and files they relate to. They give design rationale and related evidence. None is a study of LangMers itself, so no learning-outcome claim for LangMers is made from them. <sup>[E1](#en1)</sup>
 
-1. **The patent.** Merwin, David; Chen, Carrie; Moeller, Susann; Shi, Xutao (inventors). *Immersive language learning system and method.* US Patent 11,741,845 B2, granted Aug 29, 2023. Application 16/182,762, filed Nov 7, 2018 (claiming US provisional 62/653,704, filed Apr 6, 2018); published as US 2019/0311640 A1 on Oct 10, 2019. No assignee recorded. [patents.google.com/patent/US11741845B2](https://patents.google.com/patent/US11741845B2/en)  
-   *In context:* the primary record for every feature on this page: the scannable visual aids, the mobile app, Prompt and Scan, Geolocation and pronunciation feedback.
-2. **Dual coding.** Paivio, Allan. "Dual coding theory: Retrospect and current status." *Canadian Journal of Psychology* 45(3): 255–287, 1991. DOI: [10.1037/h0084295](https://doi.org/10.1037/h0084295)  
-   *In context:* the rationale for Step 1, putting each word on the real object it names, so the learner meets the word (verbal code) and the object (imagery code) together.
-3. **Multimedia learning.** Mayer, Richard E.; Moreno, Roxana. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38(1): 43–52, 2003. DOI: [10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6)  
-   *In context:* Prompt and Scan pairs a spoken pronunciation (audio channel) with a printed word on an object (visual channel). The paper's dual-channel and limited-capacity principles are a guide for keeping the learning cues shown after each scan (Step 3) short and focused.
-4. **Labels on real objects.** Ibrahim, Adam; Huynh, Brandon; Downey, Jonathan; Höllerer, Tobias; Chun, Dorothy; O'Donovan, John. "ARbis Pictus: A Study of Vocabulary Learning with Augmented Reality." *IEEE Transactions on Visualization and Computer Graphics* 24(11): 2867–2874, 2018. DOI: [10.1109/TVCG.2018.2868568](https://doi.org/10.1109/TVCG.2018.2868568)  
-   *In context:* the closest published test of the core LangMers idea, target-language labels on real-world objects. In a 52-person lab study, learners using virtual AR labels recalled more nouns than with flashcards, on the same day and 4 days later. LangMers uses physical scannable labels rather than a headset, so this is related evidence, not a test of LangMers.
-5. **Learning in place.** Edge, Darren; Searle, Elly; Chiu, Kevin; Zhao, Jing; Landay, James A. "MicroMandarin: mobile language learning in context." *Proceedings of CHI 2011*, pp. 3169–3178. DOI: [10.1145/1978942.1979413](https://doi.org/10.1145/1978942.1979413)  
-   *In context:* related work for the Geolocation game, which ties words to places. In a 4-week, 23-user study, location-based content led to shorter study sessions held in twice as many places as frequency-based content.
+**How to read each entry.** The *caption*, *metadata*, *descriptors*, *tags* and *labels* form the catalog card. The *abstract*, *gloss*, *commentary* (with its *elucidation* and *exposition*), *exegesis* and *critique* are the reading. *Marginalia* point to files in this repository, *scholia* compare the sources with each other, and each entry has one *footnote*. The anchors (`#b11`, `#b11-fn`) are the *markup*. Code comments, docstrings, directives and decorators in this repository are listed after the entries.
 
-A fuller annotated bibliography (entries B29, B30 and B33–B35) is kept in the private [merwin-flagship-projects](https://github.com/davidmerwin/merwin-flagship-projects/blob/main/bibliography/ANNOTATED_BIBLIOGRAPHY.md) repository, which requires access.
+**Sources:** [B29](#b29) · [B30](#b30) · [B40](#b40) · [B35](#b35) · [B33](#b33) · [B34](#b34) · [B42](#b42) <sup>[E2](#en2)</sup>
+
+<a id="b29"></a>
+
+## B29 · Immersive language learning system and method
+
+> **Caption.** The LangMers patent: scannable word labels on real objects plus an app.
+
+**Metadata.** David Merwin, Carrie Chen, Susann Moeller, Xutao Shi (2023). *US Patent 11,741,845 B2*. Patent. [patents.google.com/patent/US11741845B2/en](https://patents.google.com/patent/US11741845B2/en). Verified 10 Nov 2026.<br>
+**Descriptors.** Intellectual property · Mobile learning · **Tags.** `langmers` `own-work` `visual-aids` `pronunciation` · **Labels.** `evidence:patent` `role:ip` `type:patent` `status:verified`
+
+- **Abstract.** Claims a system of positionable visual aids bearing a word to be learned in one or more languages, and a smartphone application that scans them and presents material teaching the word's meaning and pronunciation.
+- **Gloss.** *Priority date*: Filing date of the earliest application relied on: 6 April 2018 (provisional 62/653,704). *Assignee*: Owner of record; none recorded here (inventors filed as individuals).
+- **Commentary.** The patent: the primary record for every feature on this page. *Elucidation:* It covers the scannable visual aids and the app that teaches meaning and pronunciation. Prompt and Scan, Geolocation and the other modes described above are product features built around it. *Exposition:* Put the word where the thing is; let the phone recognise the label and teach meaning and sound in context.
+- **Exegesis.** A patent defines *legal scope through its claims*; README features beyond the claims are product descriptions, not patented elements. Grant does not demonstrate learning efficacy.<sup>[1](#b29-fn)</sup>
+- **Critique.** Status details on Google Patents are informational, not a legal opinion; efficacy needs studies like B33.
+- **Marginalia.**
+  - `docs/11741845.pdf`: The granted patent.
+  - `langmersapp/16182762.xml`: Application 16/182,762 data.
+  - `docs/LAN3228-002B Issue Notification.pdf`: The USPTO issue notification for the grant.
+- **Scholia.** [B30](#b30): The theory behind putting the word on the object. [B33](#b33): The closest empirical test of the idea.
+- **Footnote.** <a id="b29-fn"></a>¹ Inventors per the patent record: David Merwin and Susann Moeller (Columbus, OH), Carrie Chen (Cincinnati, OH) and Xutao Shi (Eagan, MN). No assignee is recorded.
+- **In context.** The legal and technical anchor for this repository.
+
+<a id="b30"></a>
+
+## B30 · Dual coding theory: Retrospect and current status
+
+> **Caption.** Words plus images: two codes, better memory.
+
+**Metadata.** Allan Paivio (1991). *Canadian Journal of Psychology / Revue canadienne de psychologie 45(3): 255–287*. Journal article. DOI: [10.1037/h0084295](https://doi.org/10.1037/h0084295). Verified 10 Nov 2026.<br>
+**Descriptors.** Dual coding · **Tags.** `imagery` `concreteness` `memory` · **Labels.** `evidence:peer-reviewed` `role:rationale` `type:journal-article` `status:verified`
+
+- **Abstract.** Reviews dual coding theory: separate but interconnected verbal and nonverbal (imagery) systems, with evidence that material coded in both tends to be remembered better.
+- **Gloss.** *Logogen / imagen*: Paivio's units of verbal and imaginal representation. *Concreteness effect*: Concrete words are recalled better than abstract ones.
+- **Commentary.** Dual coding: words and images as two linked memory codes. *Elucidation:* It is the rationale for Step 1, putting each word on the real object it names, so the learner meets the word (verbal code) and the object (imagery code) together. *Exposition:* A concrete noun can be stored as a word and as an image; referential links between the two give two retrieval routes.
+- **Exegesis.** DCT predicts benefits *for concrete, imageable material*; it does not predict equal gains for abstract vocabulary or grammar, and it is not a test of LangMers.<sup>[1](#b30-fn)</sup>
+- **Critique.** Competing accounts (e.g., single-code propositional theories) explain some of the same data.
+- **Marginalia.**
+  - `README.md`: Step 1, Setting up Visual Aids, is dual coding in practice.
+  - `langmersapp/langmersprocess1.py`: `scan_image()` finds the label on the object and `get_word_details()` fetches the word. The two codes meet in code.
+- **Scholia.** [B40](#b40): The same theory applied to teaching. [B35](#b35): Turned into design rules.
+- **Footnote.** <a id="b30-fn"></a>¹ Paivio's 1971 book *Imagery and Verbal Processes* is the original statement.
+- **In context.** The design rationale for the visual aids.
+
+<a id="b40"></a>
+
+## B40 · Dual coding theory and education
+
+> **Caption.** Dual coding carried from the lab into teaching practice.
+
+**Metadata.** James M. Clark, Allan Paivio (1991). *Educational Psychology Review 3(3): 149–210*. Journal article. DOI: [10.1007/BF01320076](https://doi.org/10.1007/BF01320076). Verified 10 Nov 2026.<br>
+**Descriptors.** Dual coding · Curriculum · **Tags.** `imagery` `concreteness` `instructional-design` · **Labels.** `evidence:peer-reviewed` `role:rationale` `type:journal-article` `status:verified`
+
+- **Abstract.** Applies dual coding theory to educational practice, reviewing how verbal and imaginal representations and their connections bear on comprehension, memory and instruction across subjects.
+- **Gloss.** *Referential connection*: Link between a word's verbal code and its image. *Associative connection*: Link within one code system.
+- **Commentary.** Dual coding carried from the lab into teaching practice. *Elucidation:* It describes 'referential connections' between a word's verbal code and an image of its referent. A LangMers label sets up exactly that link between a target-language word and a seen object. *Exposition:* Teaching that deliberately builds referential links (word↔image) and uses concrete examples improves memory and understanding.
+- **Exegesis.** Argues DCT *offers a unified educational framework*; it is a review, not a test of any product.<sup>[1](#b40-fn)</sup>
+- **Critique.** Broad claims; strongest support remains for concrete material.
+- **Marginalia.**
+  - `README.md`: Steps 1 and 3 (set up, then scan) build referential links.
+  - `langmersapp/hardwareinterface.c`: `capture_image()` and `capture_audio()` are the two input channels the theory pairs.
+- **Scholia.** [B30](#b30): The theory retrospect from the same year. [B35](#b35): Its practical design descendant.
+- **Footnote.** <a id="b40-fn"></a>¹ A long review article, pp. 149–210.
+- **In context.** Education-specific rationale for LangMers. It makes no outcome claim.
+
+<a id="b35"></a>
+
+## B35 · Nine Ways to Reduce Cognitive Load in Multimedia Learning
+
+> **Caption.** Dual channels, limited capacity: nine design fixes.
+
+**Metadata.** Richard E. Mayer, Roxana Moreno (2003). *Educational Psychologist 38(1): 43–52*. Journal article. DOI: [10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6). Verified 10 Nov 2026.<br>
+**Descriptors.** Multimedia learning · Dual coding · **Tags.** `cognitive-load` `design-guidance` `modality` · **Labels.** `evidence:peer-reviewed` `role:rationale` `type:journal-article` `status:verified`
+
+- **Abstract.** Sets out the cognitive theory of multimedia learning (dual channels, limited capacity, active processing), five overload scenarios, and nine evidence-based ways to reduce load.
+- **Gloss.** *Modality principle*: Present words as narration rather than on-screen text when paired with pictures. *Signalling*: Cues that highlight essential material.
+- **Commentary.** Nine ways to keep multimedia learning within working-memory limits. *Elucidation:* Prompt and Scan pairs a spoken pronunciation (audio channel) with a printed word on an object (visual channel), and the cues shown after each scan (Step 3) should stay short. *Exposition:* Match each overload scenario to a fix so that essential processing stays within the capacity of the two channels.
+- **Exegesis.** The nine methods come with *the authors' lab results*; they do not test language-learning apps or LangMers.<sup>[1](#b35-fn)</sup>
+- **Critique.** Lab tasks with short retention; boundary conditions (expertise reversal) apply.
+- **Marginalia.**
+  - `README.md`: Step 5, Utilizing Feedback & Pronunciation Features: keep feedback brief and synchronised with the word.
+  - `langmersapp/hardwareinterface.c`: Audio capture plus image capture: dual channels at the hardware level.
+- **Scholia.** [B30](#b30): The theory it builds on. [B33](#b33): An AR application of similar ideas.
+- **Footnote.** <a id="b35-fn"></a>¹ The nine: off-loading, segmenting, pretraining, weeding, signaling, aligning, eliminating redundancy, synchronizing, individualizing.
+- **In context.** The design guide for Prompt and Scan and for pronunciation feedback.
+
+<a id="b33"></a>
+
+## B33 · ARbis Pictus: A Study of Vocabulary Learning with Augmented Reality
+
+> **Caption.** AR labels on real objects beat flashcards in a lab study.
+
+**Metadata.** Adam Ibrahim, Brandon Huynh, Jonathan Downey, et al. (2018). *IEEE Transactions on Visualization and Computer Graphics 24(11): 2867–2874*. Journal article. DOI: [10.1109/TVCG.2018.2868568](https://doi.org/10.1109/TVCG.2018.2868568). Verified 10 Nov 2026.<br>
+**Descriptors.** Augmented reality · Dual coding · **Tags.** `vocabulary` `head-mounted-display` `within-subjects` `empirical-study` · **Labels.** `evidence:peer-reviewed` `role:related-work` `type:journal-article` `status:verified`
+
+- **Abstract.** A within-subjects lab study (N = 52) comparing vocabulary learning from AR labels anchored to real objects with traditional flashcards; AR produced better same-day and four-day productive recall and was rated more enjoyable.
+- **Gloss.** *Productive recall*: Producing the target word, harder than recognising it.
+- **Commentary.** The closest published test of the core LangMers idea. *Elucidation:* In a 52-person lab study, learners recalled more nouns with virtual AR labels on real objects than with flashcards, both on the same day and four days later. *Exposition:* Anchor the word in space on the object it names; the spatial and visual context aids retrieval.
+- **Exegesis.** Shows a benefit *for nouns, in a lab, with a head-mounted display, over four days*. It does not test physical printed labels, classrooms or long-term retention.<sup>[1](#b33-fn)</sup>
+- **Critique.** Small vocabulary, short horizon, novelty effects possible.
+- **Marginalia.**
+  - `README.md`: LangMers uses physical scannable labels, not a headset, so this is related evidence only.
+  - `langmersapp/langmersprocess1.py`: Label detection by colour boundaries is the physical-label counterpart of AR anchoring.
+- **Scholia.** [B29](#b29): The physical-label version. [B34](#b34): Context from place instead of object.
+- **Footnote.** <a id="b33-fn"></a>¹ The arXiv preprint's title says 'Language Learning'; the journal title is used here.
+- **In context.** Related evidence for labels on real objects.
+
+<a id="b34"></a>
+
+## B34 · MicroMandarin: mobile language learning in context
+
+> **Caption.** Location-aware vocabulary in short bursts.
+
+**Metadata.** Darren Edge, Elly Searle, Kevin Chiu, et al. (2011). *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11), pp. 3169–3178*. Conference paper. DOI: [10.1145/1978942.1979413](https://doi.org/10.1145/1978942.1979413). Verified 10 Nov 2026.<br>
+**Descriptors.** Mobile learning · **Tags.** `location-based` `microlearning` `foursquare` `empirical-study` · **Labels.** `evidence:peer-reviewed` `role:related-work` `type:proceedings-paper` `status:verified`
+
+- **Abstract.** A mobile app serving Mandarin vocabulary relevant to the learner's current venue; a four-week, 23-user field study found contextual sessions were shorter but happened in twice as many places as frequency-based sessions.
+- **Gloss.** *Microlearning*: Very short learning sessions fitted into daily life.
+- **Commentary.** Location-aware vocabulary in short bursts. *Elucidation:* It is related work for the Geolocation game, which ties words to places: contextual sessions were shorter but happened in twice as many places. *Exposition:* Use location to pick words that matter here and now; learning spreads across more moments.
+- **Exegesis.** Measures *usage patterns*, not superior learning outcomes; the authors present contextual and frequency approaches as complementary.<sup>[1](#b34-fn)</sup>
+- **Critique.** Small sample; 2011 platform (Foursquare check-ins).
+- **Marginalia.**
+  - `README.md`: Geolocation mode: guide the learner back to a labelled object.
+  - `langmersapp/hardwareinterface.c`: No location capture yet. Geolocation would need a third input next to image and audio.
+- **Scholia.** [B33](#b33): Object-anchored versus place-anchored context.
+- **Footnote.** <a id="b34-fn"></a>¹ A four-week, 23-user field study in Beijing and Shanghai.
+- **In context.** Related work for the Geolocation game.
+
+<a id="b42"></a>
+
+## B42 · Annotation
+
+> **Caption.** Annotation as a genre: information, commentary, conversation, power, learning.
+
+**Metadata.** Remi H. Kalir, Antero Garcia (2021). *MIT Press Essential Knowledge series*. Book. DOI: [10.7551/mitpress/12444.001.0001](https://doi.org/10.7551/mitpress/12444.001.0001). Verified 10 Nov 2026.<br>
+**Descriptors.** Annotation practice · **Tags.** `paratext` `marginalia` `data-labeling` · **Labels.** `evidence:book` `role:method` `type:book` `status:verified`
+
+- **Abstract.** An introduction to annotation, the addition of a note to a text, as a genre that provides information, shares commentary, sparks conversation, expresses power and aids learning, with examples running from medieval manuscripts to data labelling and online reviews.
+- **Gloss.** *Paratext*: Material around a text (titles, notes, prefaces) that shapes how it is read. *Intertextuality*: Relations among texts, which annotations often make explicit.
+- **Commentary.** Annotation as a genre that, among other things, aids learning. *Elucidation:* A LangMers label is an annotation placed on the world instead of the page: a note attached to an object to teach its name. *Exposition:* Annotation mediates reading and writing; each note type serves one of five purposes, which this index maps to its elements (see ANNOTATION_TAXONOMY.md).
+- **Exegesis.** The book treats data labelling *as one example of annotation*; it does not offer a technical labelling standard.<sup>[1](#b42-fn)</sup>
+- **Critique.** Introductory and broad by design; not a methods manual.
+- **Marginalia.**
+  - `README.md`: Visual aids are annotations of the learner's surroundings.
+  - `langmersapp/LangMers-App/main.py`: `@app.route('/')` is a code annotation, a decorator, that tells Flask which page to serve.
+- **Scholia.** [B29](#b29): Annotation of physical objects. [B30](#b30): Why such annotations help memory.
+- **Footnote.** <a id="b42-fn"></a>¹ The book names five things annotation does: it provides information, shares commentary, sparks conversation, expresses power and aids learning.
+- **In context.** A frame for what a LangMers label is. It is not evidence of efficacy.
+
+## Code annotations in this repository
+
+Where the four code-annotation elements appear in this repository's own files.<sup>[E3](#en3)</sup>
+
+| Element | Example in this repository |
+| --- | --- |
+| Code comment | `langmersapp/hardwareinterface.c`: `// Basic interface with device's hardware`; `langmersapp/langmersprocess1.py`: `# Load an color image` |
+| Docstring | `langmersapp/langmersleapideproject/LangMersScan/file_scanner.py`: `"""Scans a file and returns its contents."""` |
+| Directive | `#include <stdio.h>` and `#include <stdlib.h>` in `langmersapp/hardwareinterface.c` (C preprocessor) |
+| Decorator | `@app.route('/')` and `@app.route('/login')` in `langmersapp/LangMers-App/main.py` (Flask routing) |
+
+<a id="excursus"></a>
+
+## Excursus: Dual coding and the LangMers method
+
+LangMers puts a target-language word on the object it names, and the app scans it to teach meaning and pronunciation ([B29](#b29)). The rationale is dual coding ([B30](#b30)). A concrete noun can be held both as a word and as an image, and the link between the two gives two routes to recall. Clark and Paivio ([B40](#b40)) carry the idea into teaching, and Mayer and Moreno ([B35](#b35)) turn two limited channels into design rules. Prompt and Scan pairs a spoken word with a printed one, so the cues after a scan should stay short. The best empirical neighbour is ARbis Pictus ([B33](#b33)), where AR labels on real objects beat flashcards for noun recall over four days. MicroMandarin ([B34](#b34)) shows place working as a cue, which is the idea behind the Geolocation game. Each source has limits. Dual coding is strongest for concrete, imageable words. The studies are short and lab- or pilot-scale. A patent grant shows novelty, not efficacy. The honest next step is a study of LangMers itself.
+
+## Endnotes
+
+1. <a id="en1"></a>**Verification.** Every source was checked on 10 November 2026 (America/New_York). DOIs were resolved at doi.org and matched against Crossref; preprints were checked on arXiv, the patent on Google Patents, and documentation and course pages on the live page.
+2. <a id="en2"></a>**Numbering.** B-numbers are stable identifiers shared across David Merwin's annotated bibliographies, so a source keeps the same number in every repository. Gaps in the numbering are expected.
+3. <a id="en3"></a>**Scope.** Sources give design rationale and related evidence. None is a study of LangMers, so no learning-outcome claim is made from them. The code-annotation table describes files as they are; no code was changed.
+
+## P.S.
+
+P.S. The strongest next source for this list would be a study of LangMers itself. Until then, everything above is rationale and related evidence.
 
 # Contributions -> LangMersSystems
 [US Patent 11,741,845 B2 (granted Aug 29, 2023; application 16/182,762)](https://patents.google.com/patent/US11741845B2) | LAN3228-002B:
